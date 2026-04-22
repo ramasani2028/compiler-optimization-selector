@@ -5,7 +5,7 @@ import re
 
 TEST_CASES_DIR = "test_cases"
 OUTPUT_DIR = "ir_output"
-OUTPUT_CSV = os.path.join("Datasets", "dataset25.csv")
+OUTPUT_CSV = os.path.join("Datasets", "dataset.csv")
 OPT_LEVELS = ["-O0", "-O1", "-O2", "-O3"]
 
 # Provide absolute paths to clang
